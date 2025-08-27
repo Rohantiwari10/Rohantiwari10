@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
   <a href="mailto:rohanitsector@gmail.com">
-    <img src="https://raw.githubusercontent.com/Rohantiwari10/Rohantiwari10/main/github_banner.jpg" 
+    <img src="https://raw.githubusercontent.com/Rohantiwari10/Rohantiwari10/main/Github_Banner_2.png" 
          alt="Rohan Tiwari Banner" width="100%" />
   </a>
 </p>
