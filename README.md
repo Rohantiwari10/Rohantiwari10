@@ -85,8 +85,8 @@
 
 ## 🚀 Featured Projects  
 
-- 🔗 [Tic Tac Toe Game](https://github.com/Rohantiwari10/Tic-Tac-Toe)  
-   *Simple web-based Tic-Tac-Toe game using HTML, CSS, JS.*  
+- 🔗 [Currency Converter](https://github.com/Rohantiwari10/Currency-Converter)  
+   *Simple web-based Currency Converter using HTML, CSS, JS.*  
 
 - 🔗 [Algorithm Visualizer](https://github.com/Rohantiwari10/Alogorithm-Visualizer)  
    *Simple web-based Algorithm Visualizer with HTML, CSS, and JS.*  
