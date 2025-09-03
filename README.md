@@ -88,7 +88,7 @@
 - 🔗 [Tic Tac Toe Game](https://github.com/Rohantiwari10/Tic-Tac-Toe)  
    *Simple web-based Tic-Tac-Toe game using HTML, CSS, JS.*  
 
-- 🔗 [Portfolio Website](https://github.com/Rohantiwari10/Alogorithm-Visualizer)  
+- 🔗 [Algorithm Visualizer](https://github.com/Rohantiwari10/Alogorithm-Visualizer)  
    *Simple web-based Algorithm Visualizer with HTML, CSS, and JS.*  
 
 ---
