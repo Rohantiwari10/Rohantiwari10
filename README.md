@@ -142,13 +142,14 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohantiwari10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohantiwari10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohantiwari10&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohantiwari10&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=Rohantiwari10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rohantiwari10&theme=tokyonight&hide_border=true" width="65%" />
+</p>
 
 ---
 
